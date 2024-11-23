@@ -8,7 +8,7 @@ tags:
   - environment
   - politics
   - sport
-image: /assets/img/keith-tanner-DEozOZvPvxw-unsplash.jpg
+image: https://images.unsplash.com/photo-1731688687812-db09e24f2384?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 imageAltText: A city at dusk
 description: This is a sample meta description. If one is not present in your page/post's front matter, the default settings.description will be used instead.
 ---
