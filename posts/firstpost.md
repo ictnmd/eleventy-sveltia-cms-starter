@@ -1,6 +1,6 @@
 ---
 title: This is the first example post
-date: 2019-01-03T00:00
+date: 2019-01-03T00:00:00
 author: John Doe
 summary: Why contemplating our mortality can increase customer success by up to 500%
 tags:
@@ -8,7 +8,7 @@ tags:
   - environment
   - politics
   - sport
-image: https://images.unsplash.com/photo-1680238461708-42bab9b00887?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0Mjk5Mjl8MHwxfGFsbHw5fHx8fHx8Mnx8MTY4MDI2NTE2MA&ixlib=rb-4.0.3&q=80&w=1080
+image: /assets/img/keith-tanner-DEozOZvPvxw-unsplash.jpg
 imageAltText: A city at dusk
 description: This is a sample meta description. If one is not present in your page/post's front matter, the default settings.description will be used instead.
 ---
@@ -24,7 +24,8 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 
 #### H4 and some code
 
-```text/2-3
+```text
+/2-3
 // this is a command
 function myCommand() {
 	let counter = 0;
